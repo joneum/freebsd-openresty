@@ -1,3 +1,0 @@
-# freebsd-openresty
-
-Text
